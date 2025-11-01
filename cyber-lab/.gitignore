@@ -1,0 +1,11 @@
+# systen
+.DS_Store
+
+# large files
+*.vdi
+*.vmdk
+*.iso
+*.box
+
+# secrets
+secrtes/
